@@ -1,4 +1,6 @@
 # examen_integrador
 
+GRUPO 1
 - Paola Morales
-  Paola Molina
+- Paola Molina
+- Alejandra Camero
